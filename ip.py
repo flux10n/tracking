@@ -1,7 +1,4 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-# -- import Modules --
 import os
 import sys
 import json
