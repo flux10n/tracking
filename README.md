@@ -1,14 +1,9 @@
 Installation
 ============
 ```console
-$ pkg update && pkg upgrade
-$ git clone https://github.com/xjusthaxor/Ip-lookup
-$ cd Ip-lookup
-$ ls
+pkg update && pkg upgrade
+git clone https://github.com/xjusthaxor/Ip-lookup
+pip install requests
+cd Ip-lookup
+python
 ```
-
-Run & Module
-===
-> *$ pip install requets*
-
-> *$ python Ip-lookup*
