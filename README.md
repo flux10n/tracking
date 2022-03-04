@@ -8,4 +8,4 @@
 
 > - python ip.py
 
-> If it still can't be run install ['pip install requests'](#)
+> If it still can't be run install **pip install requests**
